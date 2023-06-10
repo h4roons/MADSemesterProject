@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MAD Semester Project</string>
+    <string name="login">Login</string>
+    <string name="please_enter_your_email">Please enter your email</string>
+    <string name="please_enter_your_password">Please enter your password</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account_click_to_login">Already have an account? Click to Login.</string>
+    <string name="making_a_new_account_is_very_easy_click_here">Making a new account is very easy, Click here!</string>
+    <string name="logout">Logout</string>
+</resources>
