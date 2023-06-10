@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "163191160319",
+    "firebase_url": "https://madsemesterproject-b61d3-default-rtdb.firebaseio.com",
+    "project_id": "madsemesterproject-b61d3",
+    "storage_bucket": "madsemesterproject-b61d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163191160319:android:7a1a7e1ffcb3c2f2a6fbca",
+        "android_client_info": {
+          "package_name": "com.example.madsemesterproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163191160319-4apic1tbda85mvk1vfsuh7f3mg9glsb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeXeV5Nbt6FTyQ8FO6LAVLQO4rgNNVxW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163191160319-4apic1tbda85mvk1vfsuh7f3mg9glsb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
